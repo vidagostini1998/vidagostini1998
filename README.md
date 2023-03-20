@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidagostini1998&label=Profile%20views&color=0e75b6&style=flat" alt="vidagostini1998" /> </p>
 
-- 🔭 I’m currently working on **PHP/Laravel Projects**
+- 🔭 I’m currently working on **Full Stack Projects**
 
-- 🌱 I’m currently learning **PHP, Laravel, JS, C#, JAVA, Typescript, Angular**
+- 🌱 I’m currently learning **PHP, Laravel, JS, NODEJS, React**
 
-- 🤝 I’m looking for help with **PHP/Laravel/JS**
+- 🤝 I’m looking for help with **PHP, Laravel, JS, NODEJS, React**
 
 - 📫 How to reach me **vidagostini98@gmail.com**
+
+- Resume: https://flowcv.com/resume/45im0tpgvr
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
